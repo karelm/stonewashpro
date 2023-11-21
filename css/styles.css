@@ -10971,6 +10971,10 @@ header.masthead::before {
   left: 0px;
   z-index: -2;
 }
+header.masthead.about-us-page:before {
+  background-image: url("../assets/about-banner.jpg");
+
+}
 header.masthead::after {    
   content: "";
   background-color: #000000;
