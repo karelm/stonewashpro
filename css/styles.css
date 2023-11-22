@@ -10963,7 +10963,6 @@ header.masthead::before {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  background-size: cover;
   position: absolute;
   top: 0px;
   right: 0px;
@@ -10973,7 +10972,15 @@ header.masthead::before {
 }
 header.masthead.about-us-page:before {
   background-image: url("../assets/about-banner.jpg");
-
+}
+header.masthead.driveway-cleaning-page:before {
+  background-image: url("../assets/driveway-cleaning-banner.jpg");
+}
+header.masthead.gallery-page:before {
+  background-image: url("../assets/gallery-banner.jpg");
+}
+header.masthead.services-page:before {
+  background-image: url("../assets/services-banner.jpg");
 }
 header.masthead::after {    
   content: "";
