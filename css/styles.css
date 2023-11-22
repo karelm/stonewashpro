@@ -10982,6 +10982,9 @@ header.masthead.gallery-page:before {
 header.masthead.services-page:before {
   background-image: url("../assets/services-banner.jpg");
 }
+header.masthead.pathway-cleaning-page:before {
+  background-image: url("../assets/pathway-cleaning-banner.jpg");
+}
 header.masthead::after {    
   content: "";
   background-color: #000000;
