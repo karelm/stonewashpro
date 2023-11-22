@@ -10988,6 +10988,9 @@ header.masthead.pathway-cleaning-page:before {
 header.masthead.patio-cleaning-page:before {
   background-image: url("../assets/patio-cleaning-banner.jpg");
 }
+header.masthead.paving-cleaning-page:before {
+  background-image: url("../assets/paving-cleaning-banner.jpg");
+}
 header.masthead::after {    
   content: "";
   background-color: #000000;
